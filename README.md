@@ -20,13 +20,13 @@ Pour passer les portes, il faut d'abord l'avoir débloquée puis en se plaçant 
 Jeu de dés :
 
 Pour miser il faut cliquer sur les carrés jaunes, vous pouvez miser plusieurs sommes en même temps (exemple : 1000$w$ + 500$w$)
-Il faut selectionner soit une fourchette de nombres (exemple : 8 - 12), soit un seul nombre.
+Il faut sélectionner soit une fourchette de nombres (exemple : 8 - 12), soit un seul nombre.
 Une fois tout cela fait : Appuyer sur ESPACE pour lancer les dés.
 
 
 Machine à sous :
 
-Pour miser : Cliquer sur les jetons et les mettres dans l'encoche (cliquer sur jeton, glisser souris vers encoche, cliquer)
+Pour miser : Cliquer sur les jetons et les mettre dans l'encoche (cliquer sur jeton, glisser souris vers encoche, cliquer)
 Vous pouvez également mettre autant de jetons que vous souhaitez.
 Une fois votre somme misée : Cliquer sur le bout rouge du levier pour lancer la machine à sous.
 
